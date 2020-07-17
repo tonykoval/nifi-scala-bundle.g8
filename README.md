@@ -1,4 +1,4 @@
-#nifi-scala-bundle.g8
+# nifi-scala-bundle.g8
 
 A [gitter8](http://www.foundweekends.org/giter8/) template for generating a new Scala NiFi processor bundle using sbt plugin [sbt-nifi-nar](https://github.com/tonykoval/sbt-nifi-nar)
 
