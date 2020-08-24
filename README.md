@@ -16,7 +16,7 @@ name=nifi-example-bundle
 organization=com.example
 version=0.1-SNAPSHOT
 classname=ExampleProcessor
-nifi_version=1.11.4
+nifi_version=1.12.0
 scala_version=2.12.12
 ```
 
