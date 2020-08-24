@@ -1,5 +1,4 @@
-target/
-boot/
-lib_managed/
-src_managed/
-project/plugins/project/
+.idea/*
+project/project/*
+project/target/*
+target/*
