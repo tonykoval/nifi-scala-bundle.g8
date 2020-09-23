@@ -1,4 +1,4 @@
-#$name$
+# $name$
 
 A nifi bundle with custom processors created from a giter8 template [tonykoval/nifi-scala-bundle.g8](https://github.com/tonykoval/tonykoval/nifi-scala-bundle.g8)
 
