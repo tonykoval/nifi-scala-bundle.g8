@@ -29,7 +29,7 @@ class $classname$Spec extends FunSpec with Matchers {
   it("failure relation") {
     val in: Array[Byte] = Array(1.toByte, 2.toByte)
 
-    val processor = new ExampleProcessor
+    val processor = new $classname$
     val runner = TestRunners.newTestRunner(processor)
 
     runner.enqueue(in)
