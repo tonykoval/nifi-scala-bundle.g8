@@ -12,7 +12,7 @@ import org.apache.nifi.processor.util.StandardValidators
 import org.apache.nifi.processor.{ProcessContext, ProcessSession, Relationship}
 
 import $organization$.nifi.ops._
-import $organization$.nifi.processors.ExampleProcessor._
+import $organization$.nifi.processors.$classname$._
 import $organization$.nifi.{FlowFileNotNull, ScalaProcessor, _}
 
 @Tags(Array("custom", "scala"))
